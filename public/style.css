@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input[type="file"] {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  display: block;
+  padding: 7px 16px;
+  background-color: tomato;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
